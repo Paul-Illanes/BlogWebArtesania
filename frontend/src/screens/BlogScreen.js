@@ -25,9 +25,7 @@ const BlogScreen = {
 						<img src="${blog2}" alt="Entrada de blog" height="250px">
 					</div>
 					<div class="texto-entrada">
-						<a href="entrada.html">
 							<h4>Como usamos horno artesanal para hacer nuestras piezas personales unicas </h4>
-						</a>
 						<p>Escrito el: <span> 15/07/2021 </span> por: <span> Maestro Artesano </span> </p>
 						<p>Una de las formas mas antiguas es el horneado para las artesanias</p>
 					</div>

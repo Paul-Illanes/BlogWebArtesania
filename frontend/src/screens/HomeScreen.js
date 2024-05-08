@@ -42,7 +42,7 @@ const HomeScreen = {
 					<img src="${anuncio1}" alt="Sendero Luminoso">
 					<div class="contenido-anuncio">
 						<h3>Sendero Luminoso contra militares</h3>
-						<p>Esta artesania hace referencia a lo vivido en los años 80 donde viviamos una epoca de violencia en nuestra querida ciudad de Ayacucho</p>
+						<p>Esta artesania hace referencia a lo vivido en los años 80 donde viviamos una epoca de violencia en Ayacucho</p>
 						<p class="precio">$30</p>
 
 						<a href="anuncio.html" class="boton boton-amarillo d-block">Ver detalles</a>
@@ -72,7 +72,7 @@ const HomeScreen = {
 				</div>
 
 			<div class="ver-todas">
-					<a href="anuncios.html" class="boton boton-verde">Ver Todas</a>
+					<a href="/#/artesanias" class="boton boton-verde">Ver Todas</a>
 			</div>
     </main>
 
@@ -80,7 +80,7 @@ const HomeScreen = {
 				<div class="contenedor contenido-contacto">
 					<h4>Adorna tu hogar, oficina o negocio con nuestras bellas artesanias</h4>
 					<p>Llena el formulario de contacto y un asesor se pondrá en contacto contigo a la brevedad</p>
-					<a href="contacto.html" class="boton boton-amarillo">Contactános</a>
+					<a href="/#/contacto" class="boton boton-amarillo">Contactános</a>
 				</div>
 			</section>
 		</div>

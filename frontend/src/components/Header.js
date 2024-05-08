@@ -3,7 +3,7 @@ import barrasSvg from '../assets/img/barras.svg';
 const Header = {
 	render: () => {
 		const href = window.location.href.split('/#/')[1];
-    const isBgHeader = href.length !== 0
+    const isBgHeader = href && href.length !== 0
 		return `
       <div class="site-header ${!isBgHeader ? 'inicio' : ''}">
         <div class="contenedor contenido-header">
